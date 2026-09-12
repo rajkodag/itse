@@ -1,4 +1,4 @@
-```java
+
 package com.nexdesk.db;
 
 import java.sql.Connection;
@@ -41,4 +41,4 @@ public final class DatabaseManager {
         }
     }
 }
-```
+
