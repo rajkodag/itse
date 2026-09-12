@@ -1,0 +1,2 @@
+Put Oracle's ojdbc11.jar in this folder before running run.bat.
+The JAR is Oracle software and is intentionally not bundled with this project.
